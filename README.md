@@ -3,9 +3,10 @@
 In this webinar, I will cover the following topics:
 
 -   React Native overview
--   Development environment (with Simulators)
--   Development environment (with Devices)
--   Alternative development environment (Snack)
+-   Development Environment Setup
+    -   Simulators
+    -   Devices
+    -   Snack
 -   Flutter Comparisons
 
 They are tentative topics, the real subjects will be decided during this week's one-on-one sessions.
